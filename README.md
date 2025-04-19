@@ -1,1 +1,0 @@
-Subscription prediction of customer
